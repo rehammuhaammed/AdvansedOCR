@@ -1,4 +1,6 @@
 Advanced OCR APP
+
+
 this app addresses the complex task of Optical Character Recognition (OCR) for both 
 printed and handwritten text, aiming to enhance accuracy and efficiency in digitizing 
 textual information from diverse sources like scanned documents and images. 
